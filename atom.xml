@@ -3,11 +3,11 @@
   <title>个人博客</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://axkea.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://axkea.github.io/"/>
   <updated>2023-10-21T16:12:36.068Z</updated>
-  <id>http://example.com/</id>
+  <id>https://axkea.github.io/</id>
   
   <author>
     <name>个人博客</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/10/22/hello-world/"/>
-    <id>http://example.com/2023/10/22/hello-world/</id>
+    <link href="https://axkea.github.io/2023/10/22/hello-world/"/>
+    <id>https://axkea.github.io/2023/10/22/hello-world/</id>
     <published>2023-10-21T16:12:36.068Z</published>
     <updated>2023-10-21T16:12:36.068Z</updated>
     
